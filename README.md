@@ -2,4 +2,6 @@
 ===============
 
 A Flappy Bird Clone made using [python-pygame][pygame]
-![](gallery/Screenshot (1).png)
+**************************
+
+![](https://github.com/Dragowitch123/Flappy_Bird/blob/master/gallery/Screenshot%20(1).png)
